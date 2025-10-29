@@ -1,1 +1,1 @@
-Link drive Clean data: https://drive.google.com/drive/folders/13tePy6DCVCpZ6eYG7MJyxACB5OP-Aq13
+A Python-based data pipeline (crawl, merge, clean, and load to SQL Server) and visualization project analyzing phone and laptop products from multiple e-commerce platforms.
